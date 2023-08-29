@@ -27,7 +27,7 @@ require_once 'header.php';
   <div class='row'>
   
     <div class='col-8 mx-auto mt-5'>
-    <h2 class="display-4 mx-auto mt-2 text-center">Update Task</h2>
+    <h2 class="display-4 mx-auto mt-2 text-white text-center">Update Task</h2>
     <form class="" action="" method="post">
     <div class='form-group'>
     <input class="form-control form-control-lg" type="text" name="update_text" value="<?=$f_result['task_name'] ?>">
