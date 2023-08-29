@@ -11,7 +11,7 @@ require_once "header.php";
     <h2 class="display-4 text-white text-center" >To-Do List</h2>
       <form class="mt-4" action="index_valid.php" method="post">
         <div class="form-group">
-          <input class= "form-control form-control-lg" type="text" name="textfield" placeholder="Enter your task"  >
+          <input class= "form-control form-control-lg" type="text" name="textfield" placeholder="What do you want to DO?"  >
 
         </div>
         <div class="">
